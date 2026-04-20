@@ -25,12 +25,6 @@ It focuses on creating a smooth and user-friendly restaurant experience through 
 - ⚡ Fast development and decision making  
 - 🎨 Improving UI/UX skills  
 
-## 📸 Screenshots
-![Demo](assets/demo.mp4)
-
-## 🌐 Live Demo
-_Add your deployed link here (Vercel / Netlify)_
-
 ## 📂 Installation & Setup
 
 ```bash
